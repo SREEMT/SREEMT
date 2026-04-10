@@ -4,7 +4,7 @@
 
 ###
 
-<h2 align="left">Hi 👋! I am TMEERS and I'm a Computer Science Student pursuing a SWE Career</h2>
+<h2 align="left">Hi 👋! I am Alberto and I'm a Computer Science Student pursuing a SWE Career</h2>
 
 ###
 
