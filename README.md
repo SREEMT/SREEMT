@@ -64,7 +64,7 @@
 
 ###
 
-<p align="left">🔸I am a CS new grad currently focusing on backend systems, distributed systems architecture, and product engineering.<br><br>🔸Currently learning more about system design, GO, and Crystal.<br><br>🔸I am open to SWE roles, Product Engineering roles, or collaborating on new projects. Feel free to reach out if interested to collaborate!<br><br>🔸Outside of the internet, I am a fashion nerd really into fashion history and design. I also do calisthenics and currently training to climb Mount Washington.<br><br>🔸Here is a pic of my dog, Luna!! Isnt she adorable</p>
+<p align="left">🔸I am a CS student currently focusing on backend systems, distributed systems architecture, and product engineering.<br><br>🔸Currently learning more about system design, GO, and Crystal.<br><br>🔸I am open to SWE roles, Product Engineering roles, or collaborating on new projects. Feel free to reach out if interested to collaborate!<br><br>🔸Outside of the internet, I am a fashion nerd really into fashion history and design. I also do calisthenics and currently training to climb Mount Washington.<br><br>🔸Here is a pic of my dog, Luna!! Isnt she adorable</p>
 
 ###
 
